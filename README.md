@@ -1,2 +1,2 @@
 # TCC-SENAI
-ttc do Senai 
+tcc do Senai 
